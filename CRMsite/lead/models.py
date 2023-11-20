@@ -20,7 +20,7 @@ class Lead(models.Model):
     LOST = 'lost'
 
     CHOICES_STATUS = (
-        (NEW, 'new'),
+        (NEW, 'New'),
         (CONTACTED, 'Contacted'),
         (WON, 'Won'),
         (LOST, 'Lost'),
