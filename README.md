@@ -1,2 +1,2 @@
 # CRM-Django
-First CRM Web Aplication based on tutorials
+First Django Web Aplication based on tutorials - CRM
