@@ -59,7 +59,6 @@ def leads_edit(request, pk):
     })
 
 
-
 @login_required
 def add_lead(request):
     if request.method == 'POST':
